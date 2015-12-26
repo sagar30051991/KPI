@@ -3,7 +3,6 @@ from frappe import _
 
 def get_data():
 	return [
-		
 		{
 			"label": _("Masters"),
 			"icon": "icon-star",
@@ -18,7 +17,6 @@ def get_data():
 					"name": "Ferro OrderFU",
 					"description": _("Ferro OrderFU Master"),
 				}
-				
 			]
-		}
+		},
 	]

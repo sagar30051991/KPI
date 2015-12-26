@@ -18,7 +18,7 @@ cur_frm.cscript.make_ferro_order =function(){
 		frm: cur_frm
 	});
 }
-cur_frm.add_fetch("Customer", "vendor_code", "vendor_code");
+//cur_frm.add_fetch("Customer", "vendor_code", "vendor_code");
 
 
 // def check_lead_date(self):
